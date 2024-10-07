@@ -1,7 +1,40 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
+## Installation
+
+### Prerequisites
+
+* **Node.js and npm (or yarn):** Download and install the latest version from [https://nodejs.org/en/](https://nodejs.org/en/).
+* **Git:** If you don't have Git, install it from [https://git-scm.com/](https://git-scm.com/).
+
+### Cloning the Repository
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the project.
+3. Use Git to clone the repository:
+
+```bash
+git clone https://github.com/etomeni/image-editing-tool.git
+```
+
+or download and unzip the project file
+
+### Installing Dependencies
+#### Change to the project directory:
+
+```bash
+cd image-editing-tool
+# or
+# open the project directory
+```
+#### Install the required dependencies:
+
+```bash
+npm install
+```
+
+## Running the Development Server
 First, run the development server:
 
 ```bash
