@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ### Prerequisites
 
-* **Node.js and npm (or yarn):** Download and install the latest version from [https://nodejs.org/en/](https://nodejs.org/en/).
+* **Node.js and npm:** Download and install the latest version from [https://nodejs.org/en/](https://nodejs.org/en/).
 * **Git:** If you don't have Git, install it from [https://git-scm.com/](https://git-scm.com/).
 
 ### Cloning the Repository
