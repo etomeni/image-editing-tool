@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.mainContainer {
+  padding-left: 30px;
+  padding-right: 30px;
+}
