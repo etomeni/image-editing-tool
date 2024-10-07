@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-export const useImageState = (initialState: any, key: string) => {
+export const useImageState = (initialState: unknown, key: string) => {
   const [state, setState] = useState(() => {
     if (typeof window !== 'undefined') {
       const savedState = window.localStorage.getItem(key);

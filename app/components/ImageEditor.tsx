@@ -8,14 +8,7 @@ import styles from '../styles/ImageEdit.module.css';
 import { useParams } from 'next/navigation';
 
 
-interface ImageEditorProps {
-  // imageUrl: string;
-  // _author: string;
-  // _width: number;
-  // _height: number;
-}
-
-const ImageEditor: React.FC<ImageEditorProps> = ({
+const ImageEditor: React.FC = ({
 }) => {
   const { id } = useParams();
   const [imageUrl, setImageUrl] = useState('');
